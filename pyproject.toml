@@ -13,7 +13,7 @@ python = "^3.9"
 typer = "^0.9.0"
 openai = "^0.27.8"
 gitpython = "^3.1.35"
-
+pyyaml = "^6.0"
 [tool.poetry.dev-dependencies]
 pytest = "^7.4.2"
 black = "^23.9.1"
